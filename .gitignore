@@ -24,3 +24,10 @@ pnpm-debug.log*
 # IDE
 .vscode/
 .idea/
+
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
