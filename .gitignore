@@ -31,3 +31,15 @@ node_modules/
 # Next.js build output
 .next/
 out/
+
+# Using terminal (Git Bash)
+echo "node_modules/
+.next/
+out/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.DS_Store
+.vscode/" > .gitignore
